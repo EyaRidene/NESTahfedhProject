@@ -7,13 +7,11 @@ The "NESTahfedh" project is an online platform for buying and selling used produ
 - User registration and authentication
 - Product listing and searching
 - Product details and images
-- User profile management
 - Shopping cart functionality
-- Checkout and payment integration
 - Order tracking
-- Messaging system between buyers and sellers
-- User reviews and ratings
-- Admin panel for managing users and products
+- Messaging system
+- User reviews
+- Admin panel for managing users , products and categories.
 
 ## Technologies Used
 
@@ -21,8 +19,6 @@ The "NESTahfedh" project is an online platform for buying and selling used produ
 - ReactJS: A JavaScript library for building user interfaces.
 - PostgreSQL: A powerful open-source relational database system.
 - TypeORM: An ORM for TypeScript and JavaScript that supports various databases.
-- Redux: A predictable state container for JavaScript applications.
-- Material-UI: A popular UI framework for React applications.
 
 ## Installation
 
